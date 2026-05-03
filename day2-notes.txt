@@ -1,0 +1,4 @@
+Aaj maine Git seekha
+git init se repo banaya
+git add se staging kiya
+git commit se save kiya
